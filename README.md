@@ -27,10 +27,6 @@
 
 ---
 
-### 📈 GitHub Stats
-![Teja's GitHub stats](https://github-readme-stats.vercel.app/api?username=KARRITEJA555&show_icons=true&theme=tokyonight)  
-
----
 
 ### ✨ Latest Project
 - 📊 [**Data Survey Breakthrough**](https://github.com/KARRITEJA555/Data-Survey-Breakthrough-using-Power-BI) — Data visualization and insights using **Power BI**  
@@ -41,6 +37,11 @@
 - 🩺 [**Symptom-Based Disease Diagnosis**](https://github.com/KARRITEJA555/Symptom-Based-Disease-Diagnosis-Web-App--main) — **Web app** for health diagnosis using ML  
 - 💼 [**Job Matching with IR Techniques**](https://github.com/KARRITEJA555/Leveraging-Information-Retrieval-Techniques-for-Job-Matching) — Matching jobs to resumes with **IR + NLP**  
 
+
+---
+
+### 📈 GitHub Stats
+![Teja's GitHub stats](https://github-readme-stats.vercel.app/api?username=KARRITEJA555&show_icons=true&theme=tokyonight)  
 
 ---
 
