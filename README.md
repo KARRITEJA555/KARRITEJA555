@@ -20,13 +20,18 @@
 
 ### 📈 GitHub Stats
 ![Teja's GitHub stats](https://github-readme-stats.vercel.app/api?username=KARRITEJA555&show_icons=true&theme=tokyonight)  
-![GitHub Streak](https://streak-stats.demolab.com?user=KARRITEJA555&theme=tokyonight&hide_border=true)
 
 ---
 
-### ✨ Latest Projects
-- **Dynamic Sales Dashboard** — Power BI + Excel (Walmart data)  
-- **Fake Profile Detection** — NLP + ML (KNN, SVM, Naive Bayes)
+### ✨ Latest Project
+- 📊 [**Data Survey Breakthrough**](https://github.com/KARRITEJA555/Data-Survey-Breakthrough-using-Power-BI) — Data visualization and insights using **Power BI**  
+- 🏠 [**Airbnb Tableau Analysis**](https://github.com/KARRITEJA555/airbnb-tableau-analysis) — Market analysis with **Tableau dashboards**  
+- 🛒 [**Dynamic Sales Dashboard**](https://github.com/KARRITEJA555/Dynamic-Sales-Dashboard) — Interactive Walmart sales analysis using **Power BI + Excel**  
+- 🤖 [**Fake Profile Detection**](https://github.com/KARRITEJA555/fake_profile_detection) — **ML + NLP** models to detect fake profiles  
+- 📧 [**Cold Email Generator**](https://github.com/KARRITEJA555/cold_email_generator) — Automating outreach with **Python + NLP**  
+- 🩺 [**Symptom-Based Disease Diagnosis**](https://github.com/KARRITEJA555/Symptom-Based-Disease-Diagnosis-Web-App--main) — **Web app** for health diagnosis using ML  
+- 💼 [**Job Matching with IR Techniques**](https://github.com/KARRITEJA555/Leveraging-Information-Retrieval-Techniques-for-Job-Matching) — Matching jobs to resumes with **IR + NLP**  
+
 
 ---
 
