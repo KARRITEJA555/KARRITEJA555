@@ -1,4 +1,3 @@
-
 # Hi there 👋, I'm Teja Karri
 
 💻 **IT Graduate | Aspiring Data Analyst**  
@@ -20,7 +19,8 @@
 ---
 
 ### 📈 GitHub Stats
-![Teja's GitHub stats](https://github-readme-stats.vercel.app/api?username=tejakarri555&show_icons=true&theme=tokyonight)
+![Teja's GitHub stats](https://github-readme-stats.vercel.app/api?username=KARRITEJA555&show_icons=true&theme=tokyonight)  
+![GitHub Streak](https://streak-stats.demolab.com?user=KARRITEJA555&theme=tokyonight&hide_border=true)
 
 ---
 
@@ -31,9 +31,10 @@
 ---
 
 ### ✉️ Connect
-[LinkedIn](https://linkedin.com/in/karri-teja) • [GitHub](https://github.com/tejakarri555)
+- 📧 [Email Me](mailto:tejakarri555@gmail.com)  
+- 🌐 [LinkedIn](https://linkedin.com/in/karri-teja)  
+- 💻 [GitHub](https://github.com/KARRITEJA555)
 
 ---
+<img src="https://media.giphy.com/media/U4FkC2VqpeNRHjTDQ5/giphy.gif" width="400"/>
 
-### 🎧 Fun
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350"/>
