@@ -35,6 +35,7 @@
 - 🌐 [LinkedIn](https://linkedin.com/in/karri-teja)  
 - 💻 [GitHub](https://github.com/KARRITEJA555)
 
----<img src="https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif" width="40"/>
+
+
 
 
