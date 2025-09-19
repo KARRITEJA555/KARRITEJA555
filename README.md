@@ -11,7 +11,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="36" height="36"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="SQL" width="36" height="36"/>
   <img src="https://img.icons8.com/color/48/power-bi.png" alt="Power BI" width="36" height="36"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tableau/tableau-original.svg" alt="Tableau" width="36" height="36"/>
+  <img src="https://www.pngmart.com/files/23/Tableau-Logo-PNG-HD.png" alt="Tableau" width="36" height="36"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" alt="Azure" width="36" height="36"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="36" height="36"/>
 </p>
@@ -35,6 +35,6 @@
 - 🌐 [LinkedIn](https://linkedin.com/in/karri-teja)  
 - 💻 [GitHub](https://github.com/KARRITEJA555)
 
----
-<img src="https://media.giphy.com/media/U4FkC2VqpeNRHjTDQ5/giphy.gif" width="400"/>
+---<img src="https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif" width="40"/>
+
 
