@@ -33,9 +33,6 @@
 - 🏠 [**Airbnb Tableau Analysis**](https://github.com/KARRITEJA555/airbnb-tableau-analysis) — Market analysis with **Tableau dashboards**  
 - 🛒 [**Walmart Sales insights**](https://github.com/KARRITEJA555/Walmart-sales-insights) — Interactive Walmart sales analysis using **Excel**  
 - 🤖 [**Fake Profile Detection**](https://github.com/KARRITEJA555/fake_profile_detection) — **ML + NLP** models to detect fake profiles  
-- 📧 [**Cold Email Generator**](https://github.com/KARRITEJA555/cold_email_generator) — Automating outreach with **Python + NLP**  
-- 🩺 [**Symptom-Based Disease Diagnosis**](https://github.com/KARRITEJA555/Symptom-Based-Disease-Diagnosis-Web-App--main) — **Web app** for health diagnosis using ML  
-- 💼 [**Job Matching with IR Techniques**](https://github.com/KARRITEJA555/Leveraging-Information-Retrieval-Techniques-for-Job-Matching) — Matching jobs to resumes with **IR + NLP**  
 
 
 ---
