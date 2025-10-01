@@ -42,9 +42,6 @@
 
 ---
 
-### ✉️ Connect
-- 🌐 [LinkedIn](https://linkedin.com/in/karri-teja)  
-- 💻 [GitHub](https://github.com/KARRITEJA555)
 
 
 
