@@ -5,6 +5,23 @@
 🚀 I build dashboards, clean data, and turn analytics into business insight.
 
 ---
+💼 Experience
+
+Data Analyst Intern | BeyondTech, Hyderabad
+May 2024 – June 2025
+Built interactive Power BI dashboards, reducing reporting time by 30%.
+Cleaned and validated 50K+ records using SQL and Excel to improve data reliability.
+Automated real-time reporting pipelines, enabling faster business decisions.
+Monitored data quality and prepared monthly reports for management.
+
+Python Developer Intern | Brainovision Solutions, Hyderabad
+Jun 2022 – Aug 2022
+Developed Python scripts to automate data workflows, reducing manual effort.
+Strengthened backend development and debugging skills.
+Collaborated with team members to deliver reporting insights.
+Awarded Best Intern for contributions to Python development.
+
+---
 
 ### 🔧 Tech Stack
 <p align="left">
