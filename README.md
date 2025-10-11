@@ -56,10 +56,7 @@ Awarded Best Intern for contributions to Python development.
 
 ---
 
-### 📈 GitHub Stats
-![Teja's GitHub stats](https://github-readme-stats.vercel.app/api?username=KARRITEJA555&show_icons=true&theme=tokyonight)  
 
----
 
 
 
