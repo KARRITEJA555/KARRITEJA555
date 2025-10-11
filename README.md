@@ -47,6 +47,7 @@ Awarded Best Intern for contributions to Python development.
 
 
 ### ✨ Latest Project
+- 📊 [**Mart Sales Data**](https://github.com/KARRITEJA555/Mart-Sales-Dashboard) — Data visualization and insights using **Power BI** 
 - 📊 [**Data Survey Breakthrough**](https://github.com/KARRITEJA555/Data-Survey-Breakthrough-using-Power-BI) — Data visualization and insights using **Power BI**  
 - 🏠 [**Airbnb Tableau Analysis**](https://github.com/KARRITEJA555/airbnb-tableau-analysis) — Market analysis with **Tableau dashboards**  
 - 🛒 [**Walmart Sales insights**](https://github.com/KARRITEJA555/Walmart-sales-insights) — Interactive Walmart sales analysis using **Excel**  
